@@ -1,4 +1,4 @@
-# Adversarial Robustness of CLIP Zero-Shot Classification
+# Implementation and Evaluation of TeCoA for Adversarial Robustness in CLIP
 
 An empirical study of adversarial robustness in CLIP's zero-shot image classification, evaluating a transfer-based PGD attack and comparing three parameter-efficient defense strategies: standard adversarial fine-tuning, text-guided contrastive adversarial training (TeCoA), and visual prompt tuning.
 
